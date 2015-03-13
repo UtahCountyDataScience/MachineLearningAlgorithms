@@ -16,11 +16,11 @@
 
 * Multiple Linear Regression
 
-* Genetic Algorithms
+* Genetic Algorithms - Andrew Ch.
 
 ## Visualizations
 
-* Tableau - 
+* Tableau - Andrew Cl. 
 
 ## Text Mining
 
