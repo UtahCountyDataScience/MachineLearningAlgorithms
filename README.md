@@ -14,16 +14,20 @@
 
 ## Regression
 
-* Multiple Linear Regression
+* Multiple Linear Regression - Andrew Ch. 
 
 * Genetic Algorithms - Andrew Ch.
 
 ## Visualizations
 
-* Tableau - Andrew Cl. 
+* Tableau - Andrew C 
 
 ## Text Mining
 
 * Stylometry and Text Mining - Jeff
 
 * K-Means Clustering
+
+
+## Fourier Transforms and Speech Recognition - Sean K.
+
